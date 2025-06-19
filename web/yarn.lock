@@ -13140,13 +13140,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-virtualized-auto-sizer@npm:^1.0.6":
-  version: 1.0.25
-  resolution: "react-virtualized-auto-sizer@npm:1.0.25"
+"react-virtualized-auto-sizer@npm:^1.0.26":
+  version: 1.0.26
+  resolution: "react-virtualized-auto-sizer@npm:1.0.26"
   peerDependencies:
     react: ^15.3.0 || ^16.0.0-alpha || ^17.0.0 || ^18.0.0 || ^19.0.0
     react-dom: ^15.3.0 || ^16.0.0-alpha || ^17.0.0 || ^18.0.0 || ^19.0.0
-  checksum: 1d325db5bf78fd4a6a8df90fccc9a50b29c648d899d2ce779159903c7eaba2a98254e6436ca6d366b89c44c8b2de7042425dd36d17874d2b51a2455557423c3a
+  checksum: bbfecf2bc8546b350a948a3e1a3be445bf04c46400f8e33771795aa8fafbc4e8f436d2ab461e8476b89ec4b7efe3c194bfaf31f5f6b3cf043276c4f7d3705b52
   languageName: node
   linkType: hard
 
@@ -13694,7 +13694,7 @@ __metadata:
     react-rnd: ^10.5.1
     react-select: ^5.7.2
     react-timer-hook: ^4.0.1
-    react-virtualized-auto-sizer: ^1.0.6
+    react-virtualized-auto-sizer: ^1.0.26
     resize-observer-polyfill: ^1.5.1
     shim-loader: ^1.0.1
     snapsvg-cjs: ^0.0.6
