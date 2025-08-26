@@ -606,14 +606,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-context-menu@npm:^4.0.5":
-  version: 4.0.5
-  resolution: "electron-context-menu@npm:4.0.5"
+"electron-context-menu@npm:^4.1.1":
+  version: 4.1.1
+  resolution: "electron-context-menu@npm:4.1.1"
   dependencies:
     cli-truncate: ^4.0.0
     electron-dl: ^4.0.0
     electron-is-dev: ^3.0.1
-  checksum: 4b486b65af658489661685414d605a388c433ca5f8543767310516509351043ffac242a34a66785d9cc68eee90640d765e49fba1237cbaa5c50490dc5509b9af
+  checksum: 46efccfb60ce07c35abe3f6200309c00cb4071a6d0f83aff576617694240d91d979e821d4cbad3f11a58eb91ab85b1682cc504e0a66111edca8d44ae0fc60b20
   languageName: node
   linkType: hard
 
@@ -1548,7 +1548,7 @@ __metadata:
   dependencies:
     axios: ^1.8.4
     electron: 35.0.3
-    electron-context-menu: ^4.0.5
+    electron-context-menu: ^4.1.1
     electron-dl: ^4.0.0
     electron-store: ^10.0.0
     eslint: ^9.23.0
